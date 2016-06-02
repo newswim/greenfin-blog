@@ -2,7 +2,7 @@
 name: Greenfinity
 description: 'Indoor aquaponic gardens for your home'
 
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/greenfin-blog' # the subpath of your site, e.g. /blog
 url: 'http://newswim.github.io/greenfin-blog' # the base hostname & protocol for your site
 
 # Build settings
