@@ -1,6 +1,6 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Greenfinity
+description: 'Indoor aquaponic gardens for your home'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://yourdomain.com' # the base hostname & protocol for your site
@@ -15,9 +15,9 @@ paginate:            8
 paginate_path:       page/:num/
 
 author:
-    name: 'Salvatore Gentile'
-    email: ''
-    uri: 'https://github.com/SalGnt'
+    name: 'Dan Minshew'
+    email: 'danminshew@gmail.com'
+    uri: 'https://github.com/newswim'
 
 sass:
     sass_dir: _sass
@@ -40,3 +40,4 @@ defaults:
 gems:
     - jekyll-feed
     - jekyll-sitemap
+    - jekyll-paginate

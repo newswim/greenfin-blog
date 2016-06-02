@@ -6,6 +6,7 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/drum-rudiment.jpeg
 category: music
+author: John Doe
 tags: relax fun songs playlist
 ---
 

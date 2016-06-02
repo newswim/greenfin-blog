@@ -6,6 +6,7 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/tube.jpg
 thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/chemex.jpg
 categories: travel city
+author: Chris Brown (optional)
 tags: japan winter spring metropolis
 ---
 
